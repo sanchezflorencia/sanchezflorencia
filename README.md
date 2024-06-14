@@ -1,6 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchezflorencia)](https://github.com/sanchezflorencia/github-readme-stats)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CIndividualmente%2C%20somos%20una%20gota.%20Juntos%2C%20somos%20el%20mar%E2%80%9D.&author=Ryunosuke%20Satoro)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
