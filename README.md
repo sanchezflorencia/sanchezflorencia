@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tucnJ4OWt0OHcwdTRuNGdzaGRrNjd0ZGI0NXNtaGt6Y2ZpZnlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tucnJ4OWt0OHcwdTRuNGdzaGRrNjd0ZGI0NXNtaGt6Y2ZpZnlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="500"/>
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CIndividualmente%2C%20somos%20una%20gota.%20Juntos%2C%20somos%20el%20mar%E2%80%9D.&author=Ryunosuke%20Satoro)](https://github.com/piyushsuthar/github-readme-quotes)
